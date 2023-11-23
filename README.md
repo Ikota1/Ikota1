@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikota1&label=Profile%20views&color=0e75b6&style=flat" alt="ikota1" /> </p>
 
-- 🌱 I’m currently learning **React, Redux toolkit,**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Ikota1?tab=repositories](https://github.com/Ikota1?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
